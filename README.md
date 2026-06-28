@@ -1,6 +1,3 @@
-Here is a polished **GitHub Profile README** version of your content (rich, structured, and professional — no images included):
-
----
 
 # Emmanuel Darko
 
