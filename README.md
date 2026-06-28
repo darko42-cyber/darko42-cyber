@@ -1,75 +1,77 @@
 
-# Emmanuel Darko
+# 👋 Emmanuel Darko
 
-**Blockchain Engineer | Smart Contract Developer | Full Stack Engineer | DevOps Engineer**
-
-📍 Ghana
-📞 +233 204 079 169
-📧 [edarko322@gmail.com](mailto:edarko322@gmail.com)
-🔗 GitHub: GitHub — [GitHub Official Website](https://github.com?utm_source=chatgpt.com)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&weight=500\&size=22\&pause=1000\&color=00F7FF\&width=700\&lines=Blockchain+Engineer;Smart+Contract+Developer;Full+Stack+Engineer;DevOps+Engineer;DeFi+Architect)
 
 ---
 
-## 🚀 Professional Summary
+## 🚀 About Me
 
-Senior Software Engineer with 10+ years of experience building scalable backend systems, microservices, AI-powered applications, and decentralized blockchain solutions.
+Senior Software Engineer with **10+ years of experience** building:
 
-Specialized in Ethereum-based development using Ethereum, smart contract engineering with Solidity, and modern Web3 tooling such as Hardhat and Ethers.js.
+* Scalable backend systems & microservices
+* AI-powered applications
+* Secure blockchain & DeFi protocols
+* High-performance production infrastructure
 
-Experienced in designing secure DeFi protocols, DApps, and full-stack Web3 systems using modern frontend frameworks like Next.js.
-
-Strong DevOps and infrastructure background covering Linux systems, CI/CD pipelines, Dockerized deployments with Docker, VPS security hardening, and cloud automation.
+Specialized in **Ethereum ecosystem development**, smart contract engineering, and full-stack Web3 applications.
 
 ---
 
-## 🧠 Core Skills
+## 🧠 Tech Stack
 
-### ⛓️ Blockchain Development
+### ⛓️ Blockchain & Web3
 
-* Smart Contracts (Solidity)
-* DeFi Protocol Design
-* ERC-20 / ERC-721 / ERC-1155 Standards
-* Ethereum & L2 Ecosystems
-* Lending & Borrowing Systems (Aave-style)
-* Gas Optimization & Security Auditing
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge\&logo=solidity\&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge\&logo=ethereum\&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge)
+![Web3](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge)
 
-### 🔗 Web3 Tools
-
-* Hardhat
-* Ethers.js / Web3.js
-* Wallet Integration (MetaMask)
-* RPC Providers (Alchemy, Moralis)
-* Smart Contract Testing & Deployment
+---
 
 ### 🌐 Frontend
 
-* Next.js
-* React
-* TypeScript / JavaScript
-* Tailwind CSS
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge\&logo=tailwindcss)
+
+---
 
 ### ⚙️ Backend
 
-* Node.js
-* Java / Spring Boot
-* Microservices Architecture
-* REST APIs
-* Distributed Systems
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge\&logo=springboot)
+![REST API](https://img.shields.io/badge/REST-FF6C37?style=for-the-badge)
+
+---
 
 ### ☁️ DevOps / Infrastructure
 
-* Linux Server Administration
-* Docker
-* CI/CD Pipelines
-* Nginx / Caddy
-* VPS Security Hardening
-* Production Monitoring
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-222222?style=for-the-badge\&logo=githubactions)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge\&logo=nginx)
 
-### 🤖 AI / Automation
+---
 
-* AI-powered applications
-* Workflow automation
-* Intelligent backend systems
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=darko42-cyber\&show_icons=true\&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darko42-cyber\&layout=compact\&theme=radical)
+
+---
+
+## 🔥 What I Do
+
+* ⛓️ Build secure **DeFi protocols**
+* 🧠 Design **smart contract architectures**
+* 🌐 Develop **full-stack Web3 applications**
+* ⚙️ Engineer **microservices systems**
+* ☁️ Deploy & secure **production-grade VPS infrastructure**
+* 🔐 Perform **smart contract audits & gas optimization**
 
 ---
 
@@ -79,12 +81,11 @@ Strong DevOps and infrastructure background covering Linux systems, CI/CD pipeli
 
 **2025 – Present**
 
-* Designed and deployed secure smart contracts for decentralized applications
-* Built DeFi protocols using Solidity with Hardhat testing pipelines
-* Integrated blockchain indexing systems via Alchemy and Moralis
-* Developed Web3 frontends using Next.js with wallet authentication
-* Implemented staking, swapping, and liquidity systems
-* Conducted audits and optimized gas usage
+* Designed Ethereum smart contracts for DeFi applications
+* Built staking, swapping, and liquidity protocols
+* Integrated on-chain data using Alchemy & Moralis
+* Developed Next.js Web3 dashboards with wallet auth
+* Conducted audits and optimized gas efficiency
 
 ---
 
@@ -92,59 +93,48 @@ Strong DevOps and infrastructure background covering Linux systems, CI/CD pipeli
 
 **2023 – Present**
 
-* Architected microservices systems using Spring Boot
-* Built CI/CD pipelines for automated deployment workflows
-* Managed production Linux servers and VPS environments
-* Implemented system monitoring and incident response strategies
-* Delivered scalable backend APIs for enterprise applications
+* Built microservices using Spring Boot
+* Designed CI/CD pipelines for automation
+* Managed Linux servers & production deployments
+* Implemented monitoring and incident response systems
 
 ---
 
-## 🔥 Selected Projects
+## 🏆 Featured Projects
 
 ### 🏦 DeFi Lending Protocol
 
-* Built a decentralized lending/borrowing system inspired by Aave
-* Implemented collateral, liquidation, and interest rate models
+* Lending/borrowing system inspired by Aave
+* Collateral + liquidation + interest rate models
 
 ### 👛 Web3 Wallet Dashboard
 
-* Real-time dashboard for wallet balances, NFTs, and token activity
-* Integrated on-chain analytics and blockchain data APIs
+* Portfolio tracking for tokens & NFTs
+* Real-time blockchain data integration
 
-### ⚙️ Smart Contract Deployment Pipeline
+### ⚙️ Smart Contract Pipeline
 
-* Automated compile → test → deploy → verify workflow using Hardhat
-* Improved deployment reliability and developer productivity
-
----
-
-## 🎓 Education & Training
-
-* Self-Taught Software Engineer
-* FreeCodeCamp
-* DevMountain Bootcamp
-* Codecademy
+* Automated deploy/test/verify workflow using Hardhat
+* Improved deployment reliability & speed
 
 ---
 
-## 🛡️ Strengths
+## 📫 Connect With Me
 
-* System Architecture Design
-* Smart Contract Security Auditing
-* Infrastructure Automation
-* Secure Cloud Deployment
-* Performance Optimization
+[![GitHub](https://img.shields.io/badge/GitHub-darko42--cyber-black?style=for-the-badge\&logo=github)](https://github.com/darko42-cyber)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge\&logo=gmail)](mailto:edarko322@gmail.com)
 
 ---
 
-## 📫 Contact
+## ⚡ Fun Extras
 
-Let’s collaborate on Web3, backend systems, or infrastructure engineering:
-
-📧 Email: [edarko322@gmail.com](mailto:edarko322@gmail.com)
-🔗 GitHub: GitHub — [GitHub Official Website](https://github.com?utm_source=chatgpt.com)
+* 🔐 Security-first engineering mindset
+* ⚡ Gas optimization obsessed
+* 🧩 System design enthusiast
+* 🚀 Always building scalable systems
 
 ---
 
-If you want, I can next upgrade this into a **visually advanced GitHub README (badges, stats, animated header, contribution graph, dark theme cards)** or tailor it for **job applications (LinkedIn / CV version)**.
+
+
+Just tell me 👍
